@@ -1,0 +1,3 @@
+# Module whiteboard
+# RPC service class, partial path of RPC policy file
+com.sdsu.cs645.client.WhiteboardService, 7D4E37C8E4A36460F260CB8038A7F37C.gwt.rpc

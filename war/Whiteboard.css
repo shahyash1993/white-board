@@ -1,0 +1,101 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1,h3 {
+  font-size: 3.5em;
+  font-weight: bold;
+  color: #0066cc;
+  margin: 10px 0px 10px;
+  text-align: center;
+}
+
+.save-button{
+	width:17px;	
+}
+
+
+
+
+h3{
+	font-size:2.5em;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+.gwt-Label{
+	width:100px;
+	margin:25px;
+	display:inline-block;
+}
+
+.gwt-PasswordTextBox{
+	padding: 3px 55px;
+    border: 1px solid #ccc;
+    border-top: 1px solid #999;
+    font-size: 100%;
+}
+
+#log_panel{
+	display:block;
+	margin:0 auto 0 auto;
+	width:700px;
+	height:500px;
+	border:2px solid black !important;
+	-moz-border-radius:10px;
+	border-radius:10px;
+	text-align:center;
+}
+
+button {
+    margin: 15px;
+    font-family: Arial Unicode MS, Arial, sans-serif;
+    font-size: medium;
+}
+
+.blog_panel{
+	text-align:center;
+}
+
+.gwt-HTML {
+    margin-top: 30px;
+}
+
+.log_button{
+	margin: 80px 0 0 15px;
+}
+
+.button_panel{
+	width:700px;
+	display: block;
+	margin: 0 auto 0 auto;
+	text-align: right;
+}
+
+
+.gwt-RichTextArea{
+	display:block;
+	margin: 0 auto 0 auto;
+	width: 700px;
+	height: 500px;
+	border: 2px solid black !important;
+	border-radius: 10px;
+}
+
+.button-panel{
+	width:700px;
+	display:block;
+	margin:0 auto 0 auto;
+	text-align: right;
+}
+
+#status_msg{
+	text-align:center;
+	font-size:150%;
+	font-style:italic;
+	font-color:#AAA;
+}
+
+
